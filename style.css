@@ -1,0 +1,36 @@
+/*
+Color Palette
+
+Dark Blue: #1E3A5F
+Light Blue: #4A90E2
+Light Gray: #F4F4F4
+White: #FFFFFF
+Dark Gray: #333333
+*/
+
+body {
+    background-color: #F4F4F4;
+    font-family: Arial, sans-serif;
+    color: #333333;
+    margin: 20px;
+}
+
+h1 {
+    color: #1E3A5F;
+    text-align: center;
+}
+
+h2 {
+    color: #4A90E2;
+}
+
+img {
+    width: 250px;
+    display: block;
+    margin: auto;
+}
+
+a {
+    color: #4A90E2;
+    text-decoration: underline;
+}
